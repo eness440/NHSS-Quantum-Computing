@@ -179,11 +179,6 @@ The goal of this repository is to make NHSS **reproducible, testable, and extend
 
 ---
 
-# 📜 License
-MIT License — free to use, modify, and share.
-
----
-
 # 🤝 Contributions
 
 Contributions are welcome in:
